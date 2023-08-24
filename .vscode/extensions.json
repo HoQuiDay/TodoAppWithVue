@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "vue.vscode-typescript-vue-plugin",
+    "octref.vetur",
+    "formulahendry.auto-rename-tag",
+    "steoates.autoimport",
+    "formulahendry.auto-close-tag"
+  ]
+}
